@@ -1,0 +1,171 @@
+[{
+  "_id": {
+    "$oid": "573a1391f29313caabcd6d40"
+  },
+  "cast": [
+    "Harold Lloyd",
+    "Roy Brooks",
+    "Mildred Davis",
+    "Wallace Howe"
+  ],
+  "title": "High and Dizzy",
+  "fullplot": "After a long wait, a young doctor finally has a patient come to his office. She is a young woman whose father has brought her to be treated for sleep-walking, but the father becomes annoyed with the doctor, and takes his daughter away. Soon afterward, the young doctor shares in a drinking binge with another doctor who has built a still in his office. After a series of misadventures, the two of them wind up in the same hotel where the daughter and her father are staying, leading to some hazardous predicaments.",
+  "directors": [
+    "Hal Roach"
+  ],
+  "writers": [
+    "Frank Terry (story)",
+    "H.M. Walker (titles)"
+  ],
+  "awards": {
+    "wins": 0,
+    "nominations": 1,
+    "text": "1 nomination."
+  },
+  "year": 1920,
+  "countries": [
+    "USA"
+  ]
+},
+{
+  "_id": {
+    "$oid": "573a1391f29313caabcd6d90"
+  },
+  "cast": [
+    "Wallace Beery",
+    "Barbara Bedford",
+    "Alan Roscoe",
+    "Lillian Hall"
+  ],
+  "title": "The Last of the Mohicans",
+  "fullplot": "As Alice and Cora Munro attempt to find their father, a British officer in the French and Indian War, they are set upon by French soldiers and their cohorts, Huron tribesmen led by the evil Magua. Fighting to rescue the women are Chingachgook and his son Uncas, the last of the Mohican tribe, and their white ally, the frontiersman Natty Bumppo, known as Hawkeye.",
+  "directors": [
+    "Clarence Brown",
+    "Maurice Tourneur"
+  ],
+  "writers": [
+    "James Fenimore Cooper (novel)",
+    "Robert Dillon (scenario)"
+  ],
+  "awards": {
+    "wins": 1,
+    "nominations": 0,
+    "text": "1 win."
+  },
+  "year": 1920,
+  "countries": [
+    "USA"
+  ]
+},
+{
+  "_id": {
+    "$oid": "573a1391f29313caabcd6e2a"
+  },
+  "cast": [
+    "Buster Keaton",
+    "Sybil Seely"
+  ],
+  "title": "One Week",
+  "fullplot": "Buster and Sybil exit a chapel as newlyweds. Among the gifts is a portable house you easily put together in one week. It doesn't help that Buster's rival for Sybil switches the numbers on the crates containing the house parts.",
+  "directors": [
+    "Edward F. Cline",
+    "Buster Keaton"
+  ],
+  "awards": {
+    "wins": 1,
+    "nominations": 0,
+    "text": "1 win."
+  },
+  "year": 1920,
+  "countries": [
+    "USA"
+  ]
+},
+{
+  "_id": {
+    "$oid": "573a1391f29313caabcd6ea2"
+  },
+  "cast": [
+    "Edward Jobson",
+    "Beulah Booker",
+    "Edward Connelly",
+    "Edward Alexander"
+  ],
+  "title": "The Saphead",
+  "fullplot": "Nick Van Alstyne owns the Henrietta silver mine and is very rich. His son Bertie is naive and spoiled. His daughter Rose is married to shady investor Mark. Mark wrecks Bertie's wedding plans by making him take the blame for Mark's illegitimate daughter. Mark also nearly ruins the family business by selling off Henrietta stock at too low a price. Bertie, of all people, must come to the rescue on the trading floor.",
+  "countries": [
+    "USA"
+  ],
+  "directors": [
+    "Herbert Blachè",
+    "Winchell Smith"
+  ],
+  "writers": [
+    "Bronson Howard (original play \"The Henrietta\")",
+    "Victor Mapes (play)",
+    "June Mathis (scenario)",
+    "Winchell Smith (play)"
+  ],
+  "awards": {
+    "wins": 0,
+    "nominations": 1,
+    "text": "1 nomination."
+  },
+  "year": 1920
+},
+{
+  "_id": {
+    "$oid": "573a1391f29313caabcd6f8f"
+  },
+  "cast": [
+    "Evelyn Preer",
+    "Flo Clements",
+    "James D. Ruffin",
+    "Jack Chenault"
+  ],
+  "title": "Within Our Gates",
+  "fullplot": "Southern negro Sylvia Landry visits her cousin Alma in the north, where there is less racial prejudice than in her home town of Piney Woods in the deep south, and is anxiously awaiting her fiancè, Conrad. But Alma has designs on Conrad and tricks Sylvia into a compromising situation when he arrives, and he abandons her. Disheartened, she returns to Piney Woods to help a reverend running a school for young negroes. Sylvia learns that the reverend hasn't the heart to turn away poor students, and unless he can raise $5,000 to supplement the $1.49 per child per year that the state supplies, the school will be closed. She goes up north again to try to raise the money and has little success, but meets kindly negro, Dr. V. Vivian, who helps her regain her stolen purse. When she saves a child from being hit by an auto, she herself is slightly injured. But the owner of the car is philanthropist Mrs. Elena Warwick, who is sympathetic to her quest and promises to donate the $5,000 to the school. Her bigoted southern friend, Mrs. Stratton, tries to talk her out of the donation, and Mrs. Warwick gets so incensed she raises the amount to $50,000. Her job done, Sylvia returns to Piney Woods. But Dr. Vivian has fallen in love with Sylvia and goes to Alma to try to find her. There he learns the shocking details of her past and that of her family.",
+  "countries": [
+    "USA"
+  ],
+  "directors": [
+    "Oscar Micheaux"
+  ],
+  "writers": [
+    "Oscar Micheaux"
+  ],
+  "awards": {
+    "wins": 1,
+    "nominations": 0,
+    "text": "1 win."
+  },
+  "year": 1920
+},
+{
+  "_id": {
+    "$oid": "573a139ff29313caabd01709"
+  },
+  "countries": [
+    "USA"
+  ],
+  "cast": [
+    "Em-koy-e-tie",
+    "Hunting Horse",
+    "Esther LeBarre",
+    "Wanada Parker"
+  ],
+  "title": "The Daughter of Dawn",
+  "directors": [
+    "Norbert A. Myles"
+  ],
+  "writers": [
+    "Richard Banks (story)",
+    "Norbert A. Myles"
+  ],
+  "awards": {
+    "wins": 1,
+    "nominations": 0,
+    "text": "1 win."
+  },
+  "year": 1920
+}]
